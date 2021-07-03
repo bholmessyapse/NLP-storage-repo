@@ -1,0 +1,285 @@
+Oja, Linda (A0231654) GUARDANT, 366 Le
+
+Patient MRN: 2239570 | DOB: OCT-21-1965 | Gender: Female
+
+Diagnosis: Breast Carcinoma | Test Number 2 Therapy Finder Page
+REPORTING PHYSICIAN
+Report Date: FEB-09-2020 Rubina Qamar
+Receipt Date: FEB-04-2020 Account: Aurora Oncology Precision Medicine
+Collection Date: FEB-03-2020 Clinic
+Specimen: Blood Address: 2900 West Oklahoma Ave, Vince
+Lombardi Cancer Clinic, Milwaukee, WI, 53215,
+Status: FINAL
+
+ 
+
+United States
+
+Ph: (414) 385-5845 | Fax: N/A
+Additional Recipient: N/A Complete Tumor Response Map on page 2
+
+ 
+
+Summary of Somatic Alterations & Associated Treatment Options
+
+KEY @ Approved in indication (©) Approved in other indication () Lack of response
+
+Alteration % cfDNA or Associated FDA-approved Clinical trial availability
+Amplification therapies (see page 4)
+
+PIK3CA E542K
+
+HRAS Q61L Binimetinib, Cobimetinib,
+
+Trametinib
+
+BRAF V600E © Binimetinib, Cobimetinib,
+Dabrafenib, Encorafenib,
+
+Trametinib, Vemurafenib
+
+TP53 N239S
+
+TP53 Q165*
+
+TP53 C277Y
+
+TP53 P177L
+
+ 
+
+Variants of Uncertain Significance
+BRCA7 S956del (0.6%)
+The functional consequences and clinical significance of alterations are unknown. Relevance of therapies targeting these alterations is uncertain.
+
+Comments
+Microsatellite status: MSI-High NOT DETECTED.
+
+GUARDANT HEALTH’ A more detailed Guardant360 Patient Report is available through our online portal: TST-PRT-001 V25.0|Pg 1of6
+portal.guardanthealth.com or to set up an account, contact Client Services: 855.698.8887Oja, Linda (40231654) GUARDANT 360°
+
+DOB: OCT-21-1965 | Test Number 2
+Tumor Biology Page
+
+ 
+
+Guardant360 Tumor Response Map
+
+The Guardant360 Tumor Response Map illustrates the variant allele fraction (% cfDNA) of observed somatic variants at each sample submission time point.
+
+Amplifications are not plotted, and only the first and last five test dates are plotted. Please see the Physician Portal (portal.guardanthealth.com) for the Tumor
+Response Map with all test dates.
+
+Highest Variant
+Allele Fraction 15.4% 2%
+
+ 
+
+OCT-29-2018 FEB-03-2020
+
+Alteration % cfDNA or Amp Alteration Trend
+PIK3CA E542K 2.0% °___________2%
+15.4%
+TP53 N239S 0.6%
+O——_—_—_—_
+0.3% 0.6%
+BRCA1 S956del 0.6% on Variant of Uncertain
+5.4% sane Significance
+TP53 Q165* 0.4%
+oe
+4.7% —
+TP53 C277Y 0.3%
+Oo 0
+0.1% 0.3%
+TP53 P177L 0.2%
+oo
+ND 0.2%
+HRAS Q61L 0.1%
+0.8% 0.1%
+BRAF V600E 0.07%
+o——________________»
+0.4% 0.07%
+GUARDANT HEALTH’ Amore detailed Guardant360 Patient Report is available through our online portal: TST-PRT-001 V25.0|Pg 2o0f6
+
+portal.guardanthealth.com or to set up an account, contact Client Services: 855.698.8887Oja, Linda (40231654) GUARDANT 360°
+DOB: OCT-21-1965 | Test Number 2
+Tumor Biology Page
+
+ 
+
+Alteration % cfDNA or Amp Alteration Trend
+
+ 
+
+EGFR D126N ND
+
+0.3%
+
+ND
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESR1 D538G ND
+0.1% ND
+ERBB2 (HER2) D769Y ND
+OF
+0.09% ND
+ESR1 E380Q ND
+od,
+0.06% ND
+KRAS G12A ND
+0.05% ND
+KRAS G12V ND
+0.1% ND
+KRAS Q61L ND
+0.08% ND
+NF1 S1053fs ND
+02%
+NF1 Splice Site SNV ND
+03%
+ERBB2 (HER2) V777L ND
+0.04% ND
+ESR1 Y537N ND
+0.03% ND
+ESR1 Y537S ND
+0.05% ND
+
+ 
+
+The table above annotates the variant allele fraction (Y% cfDNA) detected in this sample, listed in descending order.
+§ See definitions section for more detail
+
+GUARDANT HEALTH’ A more detailed Guardant360 Patient Report is available through our online portal: TST-PRT-001 V25.0|Pg 30o0f6
+portal.guardanthealth.com or to set up an account, contact Client Services: 855.698.8887Oja, Linda (A0231654) GUARDANT, 366 .
+
+DOB: OCT-21-1965 | Test Number 2
+Clinical Trial Page
+
+Available Clinical Trials (within the same state as the ordering physician)
+
+There may be additional trials not listed here. Visit: portal.guardanthealth.com or email clientservices@guardanthealth.com with A0231654 in the subject line
+of the email, for additional trials.
+
+Alteration Trial ID / Contact Title Phase Site(s)
+BRAF V600E NCT03013491 PROCLAIM-CX-072: A Trial to Find Phase 1/ Madison, Wisconsin
+Vanessa Safe and Active Doses of an Phase 2
+
+Huels,clinicaltrials@cytomx.com Investigational Drug CX-072 for
+Patients With Solid Tumors or
+Lymphomas
+
+Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+
+PIK3CA E542K Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+HRAS Q61L Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+TP53 N239S Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+TP53 Q165* Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+TP53 C277Y Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+TP53 P177L Visit portal.guardanthealth.com for trials not within the same state as the physician’s office
+
+More clinical trial options available at portal.guardanthealth.com
+
+GUARDANT HEALTH’ A more detailed Guardant360 Patient Report is available through our online portal: TST-PRT-001 V25.0|Pg 4o0f6
+portal.guardanthealth.com or to set up an account, contact Client Services: 855.698.8887Oja, Linda (A0231654) GUARDANT/36£)
+
+DOB: OCT-21-1965 | Test Number 2
+
+Definitions
+
+Somatic Alterations Not Detected (ND): Somatic alterations may be present that are below the limit of detection of this test. Certain sample
+or variant characteristics may result in reduced analytic sensitivity. The absence of detectable somatic alterations in circulating cell-free DNA
+does not preclude the presence of somatic alterations in the tumor.
+
+Variant of Uncertain Significance: The functional consequences and clinical significance of alterations are unknown. Relevance of therapies
+targeting these alterations is uncertain.
+
+Deletion (Del): The following alteration was detected in this patient: BRCA1 S956del. Guardant360 detects short deletions in exons of certain
+genes (see Table 1), including potential splice site-disrupting events.
+
+*Nonsense mutation: A point mutation that results in a premature stop codon.
+
+Interpretation
+
+Somatic alterations were detected in the circulating cell-free DNA isolated from this patient's blood specimen. These genomic alterations are
+cancer-associated somatic variants, some of which have been associated with either increased or reduced clinical response to specific
+treatments. The percentage of altered cell-free DNA circulating (% cfDNA) in blood is related to the unique tumor biology of each patient.
+Factors that may affect the % cfDNA of detected somatic alterations include tumor growth, turn over, size, heterogeneity, vascularization,
+disease progression, and treatment.
+
+GUARDANT HEALTH’ A more detailed Guardant360 Patient Report is available through our online portal: TST-PRT-001 V25.0|Pg 50o0f6
+portal.guardanthealth.com or to set up an account, contact Client Services: 855.698.8887Oja, Linda (A0231654) GUARDANT 366)
+
+DOB: OCT-21-1965 | Test Number 2
+
+Method and Limitations
+
+Guardant360 sequences 74 cancer-associated genes to identify somatic alterations. Cell-free DNA (cfDNA) is extracted from plasma,
+enriched for targeted regions, and sequenced using the Illumina platform and hg19 as the reference genome. All exons are sequenced in
+some genes; only clinically significant exons are sequenced in other genes. The types of genomic alterations detected by Guardant360
+include single nucleotide variants, gene amplifications, fusions, short insertions/deletions (longest detected, 70 base pairs), and splice sitedisrupting events (see Table 1). Microsatellite Instability (MSI) is assessed for all cancer types by evaluating somatic changes in the length of
+repetitive sequences on the Guardant360 panel. A "Not Detected" result in samples where the highest % cfDNA is < 0.2% is an inconclusive
+result because it does not preclude MSI-High status in tissue. MSI status is currently not reported for earlier panel versions. This version of
+the Guardant360 test is not validated for the detection of other types of genomic alterations, such as complex rearrangements or gene
+deletions. Certain sample or variant characteristics, such as low cfDNA concentration, may result in reduced analytic sensitivity. Guardant360
+Cannot discern the source of circulating cfDNA, and for some variants in the range of ~40 to 60% cfDNA, the test cannot easily distinguish
+germline variants from somatic alterations. Guardant360 is not validated for the detection of germline or de novo variants that are associated
+with hereditary cancer risk. Tissue genotyping should be considered when plasma genotyping is negative, if clinically appropriate.
+
+Table 1: Genes on the Guardant360 Panel
+
+Guardant360 reports single nucleotide variants and splice site mutations in all clinically relevant exons in 74 genes and reports other variant types in select
+genes as indicated below.
+
+AKT1 ° ALK *#° APC ° AR 1° ARAF & ARID1A ATM 2 BRAF *° BRCA1 °
+BRCA2 ° CCND1 ? CCND2 T° CCNE1 T° CDH1 ° CDK12° CDK4 1° CDK6 1° CDKN2A °
+CTNNB1 2° DDR2 ° EGFR 12 ERBB2 t2 ESR1° EZH2 ° FBXW7 2 FGFR1 7 FGFR2 t#2
+FGFR3 *#° GATA3° GNA11 ° GNAQ ° GNAS ° HNF1A 2 HRAS ® IDH1 ° IDH2 ©
+JAK2 ° JAK3 ° KIT T° KRAS T° MAP2kK1 ® MAP2k2 ® MAPK? ° MAPK3 ° MET *°
+MLH1 2 MPL ° MTOR 2 Myc t NF1 2 NFE2L2 2 NOTCH1 2° NPM1 2° NRAS 2
+NTRK1 #° NTRK3 2 PDGFRA 1 PIK3CA T° PTEN ° PTPN11 ° RAF1 1° RB1° RET #©
+RHEB ° RHOA ° RIT1° Ros7 #° SMAD4 ° SMO ° STK11° TERT TP53 °
+TSC1 2 VHL °
+
+QO Guardant360 reports insertion and deletion variants (indels) in this gene. + Guardant360 reports alterations in the promoter region of this gene.
+
+# Guardant360 reports fusion events involving this gene for all Known gene partners. ft Guardant360 reports amplifications of this gene.
+
+About the Test
+
+The Guardant360 assay was developed and its performance characteristics were determined by Guardant Health, Inc. This test has not been
+cleared or approved by the U.S. Food and Drug Administration (FDA). The FDA has determined that such clearance or approval is not
+necessary. This test may be used for clinical purposes and should not be regarded as investigational or for research only. Guardant Health's
+Clinical reference laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA) as qualified to perform high
+complexity clinical laboratory testing. The laboratory report should be interpreted in the context of other clinical information and laboratory,
+pathology, and imaging studies by a qualified medical professional prior to initiating or changing a patient's treatment plan. The selection of
+any, all, or none of the drugs associated with potential clinical benefit (or potential lack of clinical benefit) is entirely at the discretion of the
+treating medical professional. Drug and trial information are based on the diagnosis written on the submitted test request form; this
+information is not based on any supplemental information provided by the requesting medical professional, including pathology reports or
+other molecular studies. Some drugs listed in this report may not be approved or cleared by the FDA for the indicated use. Guardant Health
+makes no endorsement, express or implied, of any product, physician, or procedure contained in this report. This report makes no promises
+or guarantees that a particular medication will affect (or not affect) the clinical outcome of any patient.
+
+Testing performed at: Guardant Health
+Laboratory Director: Arthur Baca, MD PhD | CLIA ID: 05D2070300 | CAP #: 8765297 | 505 Penobscot Drive, Redwood City, CA, 94063,
+
+United States
+Additional information is available
+
+Any therapeutic annotations are based on publicly available information. This information is described in the "Detailed Therapy Results" and
+"Relevance of Detected Alterations" sections.
+
+Visit portal.guardanthealth.com or email clientservices@guardanthealth.com with A0231654 in the subject line of the email for:
+
+— Additional clinical trials — Relevance of Detected Alterations
+— Detailed Therapy Results — References
+
+If you would like to receive this additional information with every Guardant360 report, please call client services at 855.698.8887 to opt-in.
+
+GUARDANT HEALTH’ A more detailed Guardant360 Patient Report is available through our online portal: TST-PRT-001 V25.0|Pg 60f6
+portal.guardanthealth.com or to set up an account, contact Client Services: 855.698.8887
